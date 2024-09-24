@@ -1,4 +1,4 @@
-Fundamentals of Data Science - Assignment 1
+**Fundamentals of Data Science - Assignment 1**
 
 University of Amsterdam
 
