@@ -17,7 +17,9 @@ We will analyze available datasets to answer the following exploratory questions
 
 What socio-economic factors are frequently discussed alongside women’s education?
 Are certain socio-economic variables (e.g., poverty, employment, technology access) often linked with women’s education?
-Is there a correlation between speeches on women’s education and the economic and social development of countries (e.g., GDP, happiness index, social support, freedom of choice)?
+Is there a correlation between speeches on women’s education and the economic and social development of countries 
+(e.g., GDP, happiness index, social support, freedom of choice)?
+
 2. Predictive Analysis
 We will apply predictive modeling to answer:
 
