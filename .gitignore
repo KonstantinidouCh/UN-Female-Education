@@ -1,0 +1,30 @@
+# Ignore Python compiled files
+*.pyc
+_pycache_/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore environment files (Anaconda, virtualenv)
+*.env
+*.conda
+
+# Ignore data files
+data/
+*.csv
+*.json
+
+# Ignore log files
+*.log
+
+# Ignore Mac OS system files
+.DS_Store
+
+# Ignore any configuration files or credentials (if any)
+config.json
+secrets.json
